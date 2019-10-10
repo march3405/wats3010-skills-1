@@ -1,0 +1,32 @@
+h1{
+    font-size: 1.5rem;
+    margin: 3rem;   
+}
+
+h2{
+    font-size: 1.5rem;
+    margin: .3rem;
+}
+
+p{
+    padding: 10px;
+}
+image {
+    margin:10px;
+}
+
+figcaption {
+    margin:10px;
+}
+
+/*Centering technique*/
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+    border: 10px solid black;
+    box-sizing: border-box;  
+}
