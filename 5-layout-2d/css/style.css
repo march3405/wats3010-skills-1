@@ -1,0 +1,32 @@
+.table {
+    display: table;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px;
+  }
+  .row {
+    display: table-row;
+  }
+  .col {
+    display: table-cell;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    height: 100%;
+  }
+
+  #camel-img {
+    background: url("../images/camel.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center right;
+    background-repeat: no-repeat;
+  }
+  #cayote-img {
+    background: url("../images/cayote.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center right;
+    background-repeat: no-repeat;
+  }

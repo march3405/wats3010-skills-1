@@ -145,11 +145,6 @@ footer {
   top: 45%;
 }
 
-.align-right {
-  position: absolute;
-  right: 2%;
-  top: 45%;
-}
 ```
 
 ## Resources 
