@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1, h2, h3, h4, h5, h6{
+    color:red;
+}
+
+span{
+    color:orange;
+    font-size: 1.5rem;
+}
+
+#copyright{
+    color:aqua;
+}
+
+.important{
+    font-style: italic;
+    font-weight: bold;
+    color:white;
+
+}
