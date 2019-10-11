@@ -1,0 +1,22 @@
+.wrapped {
+    width:25%;
+    height: auto;
+    text-align: left;
+    margin: 1rem;
+  }
+
+  .wrapped img {
+    display: block;
+    float: left;
+    padding: 5px;
+    width:150px;
+    height: auto;
+  }
+
+  .wrapped:after {
+    content: " "; 
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+  }

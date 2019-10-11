@@ -30,3 +30,12 @@
     background-position: center right;
     background-repeat: no-repeat;
   }
+
+  .col p {
+    padding: 20px 30px;
+    font-size: 1.5rem;
+  }
+
+  h2 {
+    text-align: center;
+  }
