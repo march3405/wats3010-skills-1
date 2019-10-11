@@ -1,0 +1,69 @@
+.times-new-roman {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.arial-helvetica {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cambria {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.gill-sans{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Franklin Gothic Medium{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.Verdana {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #b5c678;
+    font-size: 1.3rem;
+}
+
+article {
+    background-color: #0c374d;
+    margin: 2rem 10%;
+    padding: 1rem; 
+    border-radius: 1 rem;
+}
+
+h1, h2, h3 {
+    color: #0c374d;
+    text-align:center;
+}
+
+h2{
+    letter-spacing: .3rem;
+}
+
+sup a{
+    text-decoration: none;
+    color:black;
+    font-size: 1rem;
+}
+sup a:hover {
+    color: red; 
+}
+
+article p {
+    margin: 3rem;
+}
+
+article p:first-letter {
+    font-size: 3 rem;
+}
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+footer a:hover {
+color: grey;
+}
